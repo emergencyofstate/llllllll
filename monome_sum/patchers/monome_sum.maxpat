@@ -4,11 +4,11 @@
 		"appversion" : 		{
 			"major" : 6,
 			"minor" : 1,
-			"revision" : 5,
+			"revision" : 7,
 			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 81.0, 69.0, 769.0, 240.0 ],
+		"rect" : [ 136.0, 211.0, 769.0, 240.0 ],
 		"openrect" : [ 0.0, 0.0, 769.0, 240.0 ],
 		"bgcolor" : [ 0.972549, 0.972549, 0.972549, 1.0 ],
 		"bglocked" : 0,
@@ -197,7 +197,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 5,
+							"revision" : 7,
 							"architecture" : "x86"
 						}
 ,
@@ -544,7 +544,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 5,
+											"revision" : 7,
 											"architecture" : "x86"
 										}
 ,
@@ -1362,7 +1362,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 5,
+							"revision" : 7,
 							"architecture" : "x86"
 						}
 ,
@@ -1795,7 +1795,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 5,
+							"revision" : 7,
 							"architecture" : "x86"
 						}
 ,
@@ -1956,7 +1956,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 5,
+							"revision" : 7,
 							"architecture" : "x86"
 						}
 ,
@@ -1993,7 +1993,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 5,
+											"revision" : 7,
 											"architecture" : "x86"
 										}
 ,
@@ -2409,7 +2409,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 5,
+							"revision" : 7,
 							"architecture" : "x86"
 						}
 ,
@@ -2730,7 +2730,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 5,
+							"revision" : 7,
 							"architecture" : "x86"
 						}
 ,
@@ -2926,7 +2926,7 @@
 					}
 ,
 					"text" : "autopattr",
-					"varname" : "u321006400"
+					"varname" : "u868006394"
 				}
 
 			}
@@ -2945,7 +2945,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 5,
+							"revision" : 7,
 							"architecture" : "x86"
 						}
 ,
@@ -4287,7 +4287,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 5,
+							"revision" : 7,
 							"architecture" : "x86"
 						}
 ,
@@ -5158,7 +5158,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 5,
+							"revision" : 7,
 							"architecture" : "x86"
 						}
 ,
@@ -5231,7 +5231,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 5,
+											"revision" : 7,
 											"architecture" : "x86"
 										}
 ,
@@ -5349,7 +5349,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 5,
+											"revision" : 7,
 											"architecture" : "x86"
 										}
 ,
@@ -5618,7 +5618,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 5,
+											"revision" : 7,
 											"architecture" : "x86"
 										}
 ,
@@ -7238,7 +7238,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 5,
+							"revision" : 7,
 							"architecture" : "x86"
 						}
 ,
@@ -7289,7 +7289,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 5,
+											"revision" : 7,
 											"architecture" : "x86"
 										}
 ,
@@ -8527,7 +8527,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 5,
+							"revision" : 7,
 							"architecture" : "x86"
 						}
 ,
@@ -8634,7 +8634,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 5,
+											"revision" : 7,
 											"architecture" : "x86"
 										}
 ,
@@ -9248,7 +9248,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 5,
+											"revision" : 7,
 											"architecture" : "x86"
 										}
 ,
@@ -10520,7 +10520,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 5,
+							"revision" : 7,
 							"architecture" : "x86"
 						}
 ,
@@ -10614,7 +10614,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 5,
+											"revision" : 7,
 											"architecture" : "x86"
 										}
 ,
@@ -10838,7 +10838,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 5,
+											"revision" : 7,
 											"architecture" : "x86"
 										}
 ,
@@ -11341,7 +11341,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 5,
+											"revision" : 7,
 											"architecture" : "x86"
 										}
 ,
@@ -11539,7 +11539,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 5,
+															"revision" : 7,
 															"architecture" : "x86"
 														}
 ,
@@ -13035,6 +13035,32 @@
 
 			}
  ],
+		"parameters" : 		{
+			"obj-54::obj-8::obj-1::obj-43" : [ "fmtimes", "fmtimes", 0 ],
+			"obj-54::obj-8::obj-1::obj-3" : [ "waveshape", "waveshape", 0 ],
+			"obj-54::obj-8::obj-24" : [ "multislider", "multislider", 0 ],
+			"obj-54::obj-8::obj-225" : [ "m-tempo", "m-tempo", 0 ],
+			"obj-54::obj-8::obj-1::obj-101" : [ "env-length", "env-length", 0 ],
+			"obj-54::obj-8::obj-1::obj-61" : [ "envtopitch", "envtopitch", 0 ],
+			"obj-54::obj-8::obj-1::obj-6" : [ "noise", "noise", 0 ],
+			"obj-54::obj-8::obj-17" : [ "m-volume", "m-volume", 0 ],
+			"obj-54::obj-8::obj-1::obj-100" : [ "env-shape", "env-shape", 0 ],
+			"obj-54::obj-8::obj-1::obj-14" : [ "finetune", "finetune", 0 ],
+			"obj-54::obj-8::obj-1::obj-46" : [ "resonance", "resonance", 0 ],
+			"obj-54::obj-8::obj-1::obj-105" : [ "env-slope", "env-slope", 0 ],
+			"obj-54::obj-8::obj-1::obj-102" : [ "fm-index", "fm-index", 0 ],
+			"obj-54::obj-8::obj-1::obj-26" : [ "svf-filt", "svf-filt", 0 ],
+			"obj-54::obj-8::obj-79" : [ "toggle", "toggle", 0 ],
+			"obj-54::obj-8::obj-112" : [ "m-key", "m-key", 0 ],
+			"obj-54::obj-8::obj-1::obj-48" : [ "env2mod", "env2mod", 0 ],
+			"obj-54::obj-8::obj-1::obj-44" : [ "fm-mult", "fm-mult", 0 ],
+			"obj-54::obj-8::obj-1::obj-49" : [ "svf-morph", "svf-morph", 0 ],
+			"obj-54::obj-8::obj-52" : [ "toggle[1]", "toggle[1]", 0 ],
+			"obj-54::obj-8::obj-14" : [ "m-scale", "m-scale", 0 ],
+			"obj-54::obj-8::obj-1::obj-24" : [ "cutoffhz", "cutoffhz", 0 ],
+			"obj-54::obj-8::obj-1::obj-63" : [ "envtofilt", "envtofilt", 0 ]
+		}
+,
 		"dependency_cache" : [ 			{
 				"name" : "serialosc.maxpat",
 				"bootpath" : "/Applications/Max 6.1/patches",
@@ -13044,189 +13070,189 @@
 			}
 , 			{
 				"name" : "router.js",
-				"bootpath" : "/Users/Trent/Documents/Monome/llllllll/monome_sum/code",
+				"bootpath" : "/Users/adama/Documents/Monome/llllllll/monome_sum/code",
 				"patcherrelativepath" : "../code",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "led-router.js",
-				"bootpath" : "/Users/Trent/Documents/Monome/llllllll/monome_sum/code",
+				"bootpath" : "/Users/adama/Documents/Monome/llllllll/monome_sum/code",
 				"patcherrelativepath" : "../code",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "route-cell.maxpat",
-				"bootpath" : "/Users/Trent/Documents/Monome/llllllll/monome_sum/patchers",
+				"bootpath" : "/Users/adama/Documents/Monome/llllllll/monome_sum/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "sbatch.json",
-				"bootpath" : "/Users/Trent/Documents/Monome/llllllll/monome_sum/data",
+				"bootpath" : "/Users/adama/Documents/Monome/llllllll/monome_sum/data",
 				"patcherrelativepath" : "../data",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "_sum.maxpat",
-				"bootpath" : "/Users/Trent/Documents/Monome/llllllll/monome_sum/patchers",
+				"bootpath" : "/Users/adama/Documents/Monome/llllllll/monome_sum/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "soren_synthitime.maxpat",
-				"bootpath" : "/Users/Trent/Documents/Monome/llllllll/monome_sum/patchers",
+				"bootpath" : "/Users/adama/Documents/Monome/llllllll/monome_sum/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "soren_poly.synthitime~.maxpat",
-				"bootpath" : "/Users/Trent/Documents/Monome/llllllll/monome_sum/patchers",
+				"bootpath" : "/Users/adama/Documents/Monome/llllllll/monome_sum/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "batch_mlr.maxpat",
-				"bootpath" : "/Users/Trent/Documents/Monome/llllllll/monome_sum/patchers",
+				"bootpath" : "/Users/adama/Documents/Monome/llllllll/monome_sum/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "mlr_ch.js",
-				"bootpath" : "/Users/Trent/Documents/Monome/llllllll/monome_sum/code",
+				"bootpath" : "/Users/adama/Documents/Monome/llllllll/monome_sum/code",
 				"patcherrelativepath" : "../code",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "batch_mlr_play.maxpat",
-				"bootpath" : "/Users/Trent/Documents/Monome/llllllll/monome_sum/patchers",
+				"bootpath" : "/Users/adama/Documents/Monome/llllllll/monome_sum/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "flin.maxpat",
-				"bootpath" : "/Users/Trent/Documents/Monome/llllllll/monome_sum/patchers",
+				"bootpath" : "/Users/adama/Documents/Monome/llllllll/monome_sum/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "flin_sub.maxpat",
-				"bootpath" : "/Users/Trent/Documents/Monome/llllllll/monome_sum/patchers",
+				"bootpath" : "/Users/adama/Documents/Monome/llllllll/monome_sum/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "step.maxpat",
-				"bootpath" : "/Users/Trent/Documents/Monome/llllllll/monome_sum/patchers",
+				"bootpath" : "/Users/adama/Documents/Monome/llllllll/monome_sum/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "tiltrap.js",
-				"bootpath" : "/Users/Trent/Documents/Monome/llllllll/monome_sum/code",
+				"bootpath" : "/Users/adama/Documents/Monome/llllllll/monome_sum/code",
 				"patcherrelativepath" : "../code",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "gome.maxpat",
-				"bootpath" : "/Users/Trent/Documents/Monome/llllllll/monome_sum/patchers",
+				"bootpath" : "/Users/adama/Documents/Monome/llllllll/monome_sum/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "playback.maxpat",
-				"bootpath" : "/Users/Trent/Documents/Monome/llllllll/monome_sum/patchers",
+				"bootpath" : "/Users/adama/Documents/Monome/llllllll/monome_sum/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "corners.maxpat",
-				"bootpath" : "/Users/Trent/Documents/Monome/llllllll/monome_sum/patchers",
+				"bootpath" : "/Users/adama/Documents/Monome/llllllll/monome_sum/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "corners.js",
-				"bootpath" : "/Users/Trent/Documents/Monome/llllllll/monome_sum/code",
+				"bootpath" : "/Users/adama/Documents/Monome/llllllll/monome_sum/code",
 				"patcherrelativepath" : "../code",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "beams.maxpat",
-				"bootpath" : "/Users/Trent/Documents/Monome/llllllll/monome_sum/patchers",
+				"bootpath" : "/Users/adama/Documents/Monome/llllllll/monome_sum/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "beams.js",
-				"bootpath" : "/Users/Trent/Documents/Monome/llllllll/monome_sum/code",
+				"bootpath" : "/Users/adama/Documents/Monome/llllllll/monome_sum/code",
 				"patcherrelativepath" : "../code",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "yafr2.maxpat",
-				"bootpath" : "/Users/Trent/Documents/Monome/llllllll/monome_sum/patchers",
+				"bootpath" : "/Users/adama/Documents/Monome/llllllll/monome_sum/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "master-p.json",
-				"bootpath" : "/Users/Trent/Documents/Monome/llllllll/monome_sum/data",
+				"bootpath" : "/Users/adama/Documents/Monome/llllllll/monome_sum/data",
 				"patcherrelativepath" : "../data",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "audio_settings.maxpat",
-				"bootpath" : "/Users/Trent/Documents/Monome/llllllll/monome_sum/patchers",
+				"bootpath" : "/Users/adama/Documents/Monome/llllllll/monome_sum/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "drumeditorswitcher.maxpat",
-				"bootpath" : "/Users/Trent/Documents/Monome/llllllll/monome_sum/patchers",
+				"bootpath" : "/Users/adama/Documents/Monome/llllllll/monome_sum/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "drumeditor.maxpat",
-				"bootpath" : "/Users/Trent/Documents/Monome/llllllll/monome_sum/patchers",
+				"bootpath" : "/Users/adama/Documents/Monome/llllllll/monome_sum/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "panic.png",
-				"bootpath" : "/Users/Trent/Desktop",
-				"patcherrelativepath" : "../../../../../Desktop",
+				"bootpath" : "/Users/adama/Documents/Monome/llllllll/monome_sum/media",
+				"patcherrelativepath" : "../media",
 				"type" : "PNG ",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "midi_clock.maxpat",
-				"bootpath" : "/Users/Trent/Documents/Monome/llllllll/monome_sum/patchers",
+				"bootpath" : "/Users/adama/Documents/Monome/llllllll/monome_sum/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
